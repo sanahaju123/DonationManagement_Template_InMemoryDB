@@ -13,7 +13,6 @@ using Microsoft.AspNetCore.Identity;
 
 namespace Donation_Management.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
     public class NgoController : ControllerBase
     {
